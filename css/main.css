@@ -786,3 +786,7 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+.no-break pre code {
+  white-space: pre;
+}
